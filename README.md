@@ -176,10 +176,8 @@ hÎ«§œ&è‚{(þ¥˜ñ•×S@. OƒÃ^RnJÂ?‘º¦Ž¢…RâÅëØs�
       submitBtn.textContent = 'Error. Try again?';
       submitBtn.disabled = false;
       statusNote.textContent = 'Connection failed. Please retry.';
-  });
-</script>
-<!DOCTYPE html>
-<html lang="en">
+  
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />

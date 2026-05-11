@@ -176,10 +176,8 @@ hÎ«§œ&è‚{(þ¥˜ñ•×S@. OƒÃ^RnJÂ?‘º¦Ž¢…RâÅëØs�
       submitBtn.textContent = 'Error. Try again?';
       submitBtn.disabled = false;
       statusNote.textContent = 'Connection failed. Please retry.';
-    }
   });
 </script>
-[index.html](https://github.com/user-attachments/files/27604293/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
